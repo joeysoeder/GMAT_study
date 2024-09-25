@@ -43,7 +43,7 @@ jobs:
         echo "RECIPIENT_EMAILS=${RECIPIENT_EMAILS}" >> $GITHUB_ENV
 
     - name: Run the Script
-      run: python script.py
+      run: python question_load_email_send.py
 
     - name: Commit sent_questions.txt
       run: |
