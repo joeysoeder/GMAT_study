@@ -7,9 +7,9 @@ import sys
 # Configuration
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587  
-EMAIL_ADDRESS = 'soederj2@gmail.com'  
+EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS')
 EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD')
-RECIPIENT_EMAILS = ['soederj2@gmail.com','hamza.mirza72@gmail.com']  
+RECIPIENT_EMAILS = os.environ.get('RECIPIENT_EMAILS', '').split(',') 
 QUESTIONS_FILE = 'GMAT_Quant_Questions.txt'
 SENT_QUESTIONS_FILE = 'sent_questions.txt'
 
