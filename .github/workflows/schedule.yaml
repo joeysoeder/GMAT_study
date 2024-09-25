@@ -5,6 +5,9 @@ on:
     - cron: '0 7 * * *'  # Runs at 7:00 AM every day
   workflow_dispatch:     # Allows manual triggering of the workflow
 
+permissions:
+  contents: write  # Grants write permission to the repository contents
+
 jobs:
   send_email:
     runs-on: ubuntu-latest
@@ -12,6 +15,9 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
+      with:
+        persist-credentials: true  # Use the token provided by GitHub Actions
+        fetch-depth: 0  # Fetch all history so we can push changes
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -21,8 +27,6 @@ jobs:
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        # Install any dependencies if necessary
-        # pip install -r requirements.txt
 
     - name: Configure SMTP Server
       env:
@@ -39,15 +43,12 @@ jobs:
         echo "RECIPIENT_EMAILS=${RECIPIENT_EMAILS}" >> $GITHUB_ENV
 
     - name: Run the Script
-      run: python question_load_email_send.py
+      run: python script.py
 
-    
     - name: Commit sent_questions.txt
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
         git add sent_questions.txt
         git commit -m "Update sent questions"
-        git push origin HEAD:${{ github.ref }}
+        git push
