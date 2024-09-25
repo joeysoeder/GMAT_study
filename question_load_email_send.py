@@ -47,7 +47,7 @@ def send_email(subject, body):
     server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
     server.starttls()
     server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
-    server.sendmail(EMAIL_ADDRESS, RECIPIENT_EMAIL, msg.as_string())
+    server.sendmail(EMAIL_ADDRESS, RECIPIENT_EMAILS, msg.as_string())
     server.quit()
 
 def main():
