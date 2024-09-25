@@ -10,7 +10,7 @@ SMTP_PORT = 587
 EMAIL_ADDRESS = 'soederj2@gmail.com'  
 EMAIL_PASSWORD = 'dgmf cide zunu vofk'
 RECIPIENT_EMAILS = ['soederj2@gmail.com','hamza.mirza72@gmail.com']  
-QUESTIONS_FILE = 'questions.txt'
+QUESTIONS_FILE = 'GMAT_Quant_Questions.txt'
 SENT_QUESTIONS_FILE = 'sent_questions.txt'
 
 def load_questions():
