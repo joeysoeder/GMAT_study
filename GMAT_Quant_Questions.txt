@@ -1,699 +1,484 @@
-Q1: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q2: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q3: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q4: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q5: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q6: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q7: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q8: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q9: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q10: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q11: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q12: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q13: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q14: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q15: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q16: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q17: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q18: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q19: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q20: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q21: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q22: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q23: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q24: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q25: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q26: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q27: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q28: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q29: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q30: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q31: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q32: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q33: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q34: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q35: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q36: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q37: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q38: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q39: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q40: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q41: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q42: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q43: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q44: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q45: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q46: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q47: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q48: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q49: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q50: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q51: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q52: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q53: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q54: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q55: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q56: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q57: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q58: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q59: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q60: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q61: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q62: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q63: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q64: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q65: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q66: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q67: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q68: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q69: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q70: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q71: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q72: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q73: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q74: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q75: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q76: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q77: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q78: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q79: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q80: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q81: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q82: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q83: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q84: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q85: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q86: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q87: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q88: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q89: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q90: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
-
-Q91: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
-A) 0%
-B) 4% decrease
-C) 4% increase
-D) 10% decrease
-E) 10% increase
-
-Q92: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
-A) 300 m
-B) 320 m
-C) 360 m
-D) 390 m
-E) 420 m
-
-Q93: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
-A) 0
-B) 1
-C) 2
-D) 16
-E) 64
-
-Q94: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
-A) 1/33
-B) 2/11
-C) 1/12
-D) 1/6
-E) 4/11
-
-Q95: The sum of three consecutive integers is 72. What is the largest of the three integers?
-A) 23
-B) 24
-C) 25
-D) 26
-E) 27
-
-Q96: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
-A) 0%
-B) 1% increase
-C) 2.5% increase
-D) 5% increase
-E) 10% increase
-
-Q97: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
-A) 2
-B) 3
-C) 4
-D) 5
-E) 6
-
-Q98: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
-A) 24
-B) 28
-C) 32
-D) 36
-E) 40
-
-Q99: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
-A) 70 km/h
-B) 72 km/h
-C) 75 km/h
-D) 78 km/h
-E) 80 km/h
-
-Q100: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
-A) 6
-B) 10
-C) 14
-D) 18
-E) 22
+
+1. For each trip, a taxicab company charges $4.25 for the first mile and $2.65 for each additional mile or fraction thereof. If the total charge for a certain trip was $62.55, how many miles at most was the trip?
+   A) 21
+   B) 22
+   C) 23
+   D) 24
+   E) 25
+
+2. If r and s are positive integers such that (2^r )(4^s ) = 16, then 2r + s = 
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   E) 6
+
+3. On Monday, the opening price of a certain stock was $100 per share and its closing price was $110 per share. On Tuesday, the closing price of the stock was 10 percent less than its closing price on Monday, and on Wednesday, the closing price of the stock was 4 percent greater than its closing price on Tuesday. What was the approximate percent change in the price of the stock from its opening price on Monday to its closing price on Wednesday?
+   A) A decrease of 6%
+   B) A decrease of 4%
+   C) A decrease of 1%
+   D) An increase of 3%
+   E) An increase of 4%
+
+4. If the sum of the reciprocals of two consecutive odd integers is 12/35, then the greater of the two integers is
+   A) 3
+   B) 5
+   C) 7
+   D) 9
+   E) 11
+
+5. 2x + 2y = −4, 4x + y = 1. In the system of equations above, what is the value of x?
+   A) −3
+   B) −1
+   C) 2/5
+   D) 1
+   E) 3/4
+
+6. In a certain sequence, each term after the first term is one-half the previous term. If the tenth term of the sequence is between 0.0001 and 0.001, then the twelfth term of the sequence is between
+   A) 0.0025 and 0.025
+   B) 0.00025 and 0.0025
+   C) 0.000025 and 0.00025
+   D) 0.0000025 and 0.000025
+   E) 0.00000025 and 0.0000025
+
+7. If x = −5/8 and y = −1/2, what is the value of the expression −2x − y^2?
+   A) −3/2
+   B) −1
+   C) 1
+   D) 3/2
+   E) 7/4
+
+8. 6(87.30 + 0.65) − 5(87.30) = 
+   A) 3.90
+   B) 39.00
+   C) 90.90
+   D) 91.20
+   E) 91.85
+
+9. If x > y and y > z, which of the following represents the greatest number?
+   A) x − z
+   B) x − y
+   C) y − x
+   D) z − y
+   E) z − x
+
+10. The expression n! is defined as the product of the integers from 1 through n. If p is the product of the integers from 100 through 299 and q is the product of the integers from 200 through 299, which of the following is equal to p/q?
+   A) 99!
+   B) 199!
+   C) 199!/99!
+   D) 299!/99!
+   E) 299!/199!
+
+
+11. A grocer has 400 pounds of coffee in stock, 20 percent of which is decaffeinated. If the grocer buys another 100 pounds of coffee, of which 60 percent is decaffeinated, what percent by weight of the grocer's stock of coffee is decaffeinated?
+   A) 28%
+   B) 30%
+   C) 32%
+   D) 34%
+   E) 40%
+
+12. If the average (arithmetic mean) of 5 numbers j, j + 5, 2j – 1, 4j – 2, and 5j – 1 is 8, what is the value of j?
+   A) 1/3
+   B) 7/13
+   C) 1
+   D) 3
+   E) 8
+
+13. What is the larger of the 2 solutions of the equation x² – 4x = 96?
+   A) 8
+   B) 12
+   C) 16
+   D) 32
+   E) 100
+
+14. In a certain learning experiment, each participant had three trials and was assigned for each trial a score of either –2, –1, 0, 1, or 2. The participant’s final score consisted of the sum of the first trial score, 2 times the second trial score, and 3 times the third trial score. If Anne received scores of 1 and –1 for her first two trials, which of the following could NOT be her final score?
+   A) –4
+   B) –2
+   C) 1
+   D) 5
+   E) 6
+
+15. A rope 20.6 meters long is cut into two pieces. If the length of one piece of rope is 2.8 meters shorter than the length of the other, what is the length in meters of the longer piece of rope?
+   A) 7.5
+   B) 8.9
+   C) 9.9
+   D) 10.3
+   E) 11.7
+
+16. The toll T in dollars for a truck using a certain bridge is given by the formula T = 1.50 + 0.50(x – 2), where x is the number of axles on the truck. What is the toll for an 18-wheel truck that has 2 wheels on its front axle and 4 wheels on each of its other axles?
+   A) $2.50
+   B) $3.00
+   C) $3.50
+   D) $4.00
+   E) $5.00
+
+17. When 24 is divided by the positive integer n, the remainder is 4. Which of the following statements about n must be true?
+   A) n is even.
+   B) n is a multiple of 5.
+   C) n is a factor of 20.
+   A) III only
+   B) I and II only
+   C) I and III only
+   D) II and III only
+   E) I, II, and III
+
+18. A student’s average (arithmetic mean) test score on 4 tests is 78. What must be the student’s score on a 5th test for the student’s average score on the 5 tests to be 80?
+   A) 80
+   B) 82
+   C) 84
+   D) 86
+   E) 88
+
+19. If x + y = 2 and x² + y² = 2, what is the value of xy?
+   A) –2
+   B) –1
+   C) 0
+   D) 1
+   E) 2
+
+20. Last week, Jack worked 70 hours and earned $1260. If he earned his regular hourly wage for the first 40 hours worked, 1.5 times his regular hourly wage for the next 20 hours worked, and 2 times his regular hourly wage for the remaining 10 hours worked, what was his regular hourly wage?
+   A) $7.00
+   B) $14.00
+   C) $18.00
+   D) $22.00
+   E) $31.50
+
+21. The "prime sum" of an integer n greater than 1 is the sum of all the prime factors of n, including repetitions. For example, the prime sum of 12 is 7, since 12 = 2 × 2 × 3 and 2 + 2 + 3 = 7. For which of the following integers is the prime sum greater than 35?
+   A) 440
+   B) 512
+   C) 620
+   D) 700
+   E) 750
+
+22. A work plan for September requires that a work team working every day produce an average of 200 items per day. For the first half of the month, the team produced an average of 150 items per day. How many items per day must the team average during the second half of the month if it is to attain the average daily production rate required by the work plan?
+   A) 225
+   B) 250
+   C) 275
+   D) 300
+   E) 350
+
+23. If p = 2x and q = 3y, which of the following expressions represents the ratio of p to q?
+   A) 2x / 3y
+   B) 3x / 2y
+   C) 3y / 2x
+   D) 6xy
+   E) None of the above
+
+24. In a certain sequence, each term after the first is the previous term divided by 2. If the first term of the sequence is 64, what is the 7th term?
+   A) 1
+   B) 0.5
+   C) 0.25
+   D) 0.125
+   E) 0.0625
+
+
+25. If x² + y² = z² and x, y, z are all positive integers, which of the following could be the value of z?
+   A) 5
+   B) 6
+   C) 7
+   D) 8
+   E) 9
+
+26. If the difference between the squares of two consecutive integers is 35, what is the larger of the two integers?
+   A) 8
+   B) 9
+   C) 10
+   D) 11
+   E) 12
+
+27. A cylindrical container has a diameter of 12 cm and a height of 10 cm. What is the volume of the container in cubic centimeters? (Use π = 3.14)
+   A) 1130.4
+   B) 905.4
+   C) 754.2
+   D) 452.2
+   E) 282.6
+
+28. If the product of 3 consecutive integers is equal to 120, what is the sum of the integers?
+   A) 12
+   B) 15
+   C) 16
+   D) 18
+   E) 20
+
+29. The average age of three students is 22 years. If the oldest student is 2 years older than the second-oldest student, and the second-oldest student is 3 years older than the youngest student, what is the age of the oldest student?
+   A) 23
+   B) 24
+   C) 25
+   D) 26
+   E) 27
+
+30. A train travels from City A to City B at an average speed of 80 miles per hour. It returns from City B to City A at an average speed of 60 miles per hour. What is the average speed of the entire trip?
+   A) 65 mph
+   B) 68 mph
+   C) 70 mph
+   D) 72 mph
+   E) 75 mph
+
+31. If x² − 9x + 20 = 0, what are the possible values of x?
+   A) 3, 6
+   B) −5, 4
+   C) −3, 5
+   D) 2, 7
+   E) 4, 5
+
+32. If a coin is flipped twice, what is the probability that it will land on heads at least once?
+   A) 1/4
+   B) 1/2
+   C) 3/4
+   D) 1/8
+   E) 5/8
+
+33. A rectangular garden is 40 feet long and 20 feet wide. A path, 2 feet wide, runs around the entire garden. What is the area of the path?
+   A) 164 square feet
+   B) 168 square feet
+   C) 172 square feet
+   D) 176 square feet
+   E) 180 square feet
+
+34. If n is a positive integer and 5n + 3 is divisible by 4, what is the remainder when n is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
+
+35. A triangle has sides of lengths 7, 24, and 25. What is the area of the triangle?
+   A) 60
+   B) 70
+   C) 80
+   D) 84
+   E) 90
+
+36. If a rectangular box has a volume of 120 cubic inches and a height of 5 inches, what is the area of the base of the box?
+   A) 12
+   B) 20
+   C) 24
+   D) 30
+   E) 40
+
+37. In a certain lottery, 3 numbers are chosen at random from the numbers 1 to 10. What is the probability of choosing the numbers 1, 2, and 3 in that order?
+   A) 1/1000
+   B) 1/720
+   C) 1/120
+   D) 1/60
+   E) 1/10
+
+38. If x + 2y = 8 and 3x − y = 7, what is the value of x?
+   A) 1
+   B) 2
+   C) 3
+   D) 4
+   E) 5
+
+39. If the product of two numbers is 56 and their sum is 15, what are the two numbers?
+   A) 7 and 8
+   B) 3 and 12
+   C) 4 and 11
+   D) 5 and 10
+   E) 6 and 9
+
+40. A jar contains 5 red marbles, 4 green marbles, and 3 blue marbles. If one marble is chosen at random, what is the probability that it is either red or blue?
+   A) 1/4
+   B) 1/2
+   C) 2/3
+   D) 3/4
+   E) 4/5
+
+41. In how many ways can the letters in the word "GMAT" be arranged?
+   A) 4
+   B) 12
+   C) 24
+   D) 48
+   E) 120
+
+42. The perimeter of a square is 36. What is the area of the square?
+   A) 81
+   B) 64
+   C) 49
+   D) 36
+   E) 25
+
+43. The sum of the first 10 positive integers is
+   A) 40
+   B) 45
+   C) 50
+   D) 55
+   E) 60
+
+44. A certain recipe requires 3 cups of sugar for every 4 cups of flour. If a baker has 15 cups of sugar, how many cups of flour does the baker need?
+   A) 15
+   B) 18
+   C) 20
+   D) 22
+   E) 25
+
+45. If a right triangle has one angle measuring 30 degrees, what is the measure of the other non-right angle?
+   A) 30 degrees
+   B) 45 degrees
+   C) 50 degrees
+   D) 60 degrees
+   E) 90 degrees
+
+
+
+46. If x + y = 10 and x² + y² = 58, what is the value of xy?
+   A) 10
+   B) 12
+   C) 14
+   D) 16
+   E) 18
+
+47. A box contains 10 identical balls, of which 3 are red and the rest are blue. If 2 balls are selected at random, what is the probability that both balls are red?
+   A) 3/10
+   B) 1/6
+   C) 1/15
+   D) 1/30
+   E) 2/5
+
+48. The area of a circle is 16π. What is the circumference of the circle?
+   A) 8π
+   B) 16π
+   C) 4π
+   D) 6π
+   E) 32π
+
+49. A 15% increase followed by a 10% decrease is equivalent to what overall percent change?
+   A) A 3.5% increase
+   B) A 4.5% increase
+   C) A 3.5% decrease
+   D) A 4.5% decrease
+   E) No change
+
+50. The volume of a rectangular prism is 180 cubic units. If the length and width of the prism are 10 units and 6 units respectively, what is the height of the prism?
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   E) 6
+
+51. A sum of money is to be divided among A, B, and C in the ratio 2:3:4. If B receives $150, how much money is A's share?
+   A) $100
+   B) $125
+   C) $175
+   D) $200
+   E) $225
+
+52. A car travels 120 miles in 2 hours, then 180 miles in 3 hours. What is the car's average speed in miles per hour for the entire trip?
+   A) 50 mph
+   B) 55 mph
+   C) 60 mph
+   D) 65 mph
+   E) 70 mph
+
+53. A rectangle has a perimeter of 40 and a length of 12. What is the area of the rectangle?
+   A) 36
+   B) 48
+   C) 60
+   D) 72
+   E) 96
+
+54. A cube has a surface area of 150 square units. What is the volume of the cube?
+   A) 25
+   B) 50
+   C) 75
+   D) 100
+   E) 125
+
+55. The average (arithmetic mean) of 8 numbers is 16. If one number is removed, the average of the remaining 7 numbers is 15. What is the number that was removed?
+   A) 21
+   B) 23
+   C) 25
+   D) 27
+   E) 29
+
+56. If the length of a rectangle is increased by 20% and the width is decreased by 10%, what is the percent change in the area of the rectangle?
+   A) 8% decrease
+   B) 10% increase
+   C) 12% decrease
+   D) 15% increase
+   E) 18% decrease
+
+57. If a car's fuel efficiency is 25 miles per gallon, how many gallons of fuel are needed to travel 450 miles?
+   A) 10
+   B) 15
+   C) 18
+   D) 20
+   E) 25
+
+58. A train leaves City A traveling at 60 mph. Two hours later, a second train leaves City A traveling at 80 mph on a parallel track. How long will it take for the second train to catch up to the first train?
+   A) 2 hours
+   B) 3 hours
+   C) 4 hours
+   D) 5 hours
+   E) 6 hours
+
+59. The sum of three consecutive even integers is 36. What is the smallest of the three integers?
+   A) 8
+   B) 10
+   C) 12
+   D) 14
+   E) 16
+
+60. A right circular cone has a base with a radius of 4 units and a height of 9 units. What is the volume of the cone? (Use π = 3.14)
+   A) 48π
+   B) 36π
+   C) 24π
+   D) 72π
+   E) 96π
+
+61. If n is an even integer, what is the remainder when n² is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
+
+62. If 5x – 3 = 2x + 6, what is the value of x?
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   E) 6
+
+63. If a and b are positive integers and a > b, which of the following expressions represents the greatest value?
+   A) a + b
+   B) a²
+   C) b²
+   D) ab
+   E) a – b
+
+64. If a sum of $10,000 is invested at an annual interest rate of 5%, compounded annually, how much will the investment be worth at the end of 2 years?
+   A) $10,250
+   B) $10,500
+   C) $11,025
+   D) $11,500
+   E) $12,000
+
+65. A factory produces 300 widgets per hour. If the factory operates for 8 hours a day, how many widgets does it produce in 5 days?
+   A) 8,000
+   B) 10,000
+   C) 12,000
+   D) 15,000
+   E) 18,000
+
+
+98. A man buys a watch for $240 and sells it at a profit of 25%. What is the selling price of the watch?
+   A) $250
+   B) $260
+   C) $280
+   D) $300
+   E) $320
+
+99. The product of two numbers is 48 and their sum is 16. What are the two numbers?
+   A) 4 and 12
+   B) 6 and 10
+   C) 8 and 8
+   D) 9 and 7
+   E) 5 and 11
+
+100. A cylindrical water tank has a radius of 3 meters and a height of 5 meters. What is the volume of the tank? (Use π = 3.14)
+   A) 141.3 cubic meters
+   B) 157 cubic meters
+   C) 188.4 cubic meters
+   D) 212 cubic meters
+   E) 235 cubic meters
