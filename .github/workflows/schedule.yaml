@@ -1,0 +1,53 @@
+name: Send Daily GMAT Question
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Runs at 7:00 AM every day
+  workflow_dispatch:     # Allows manual triggering of the workflow
+
+jobs:
+  send_email:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Install any dependencies if necessary
+        # pip install -r requirements.txt
+
+    - name: Configure SMTP Server
+      env:
+        SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+        SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        RECIPIENT_EMAILS: ${{ secrets.RECIPIENT_EMAILS }}
+      run: |
+        echo "SMTP_SERVER=${SMTP_SERVER}" >> $GITHUB_ENV
+        echo "SMTP_PORT=${SMTP_PORT}" >> $GITHUB_ENV
+        echo "EMAIL_ADDRESS=${EMAIL_ADDRESS}" >> $GITHUB_ENV
+        echo "EMAIL_PASSWORD=${EMAIL_PASSWORD}" >> $GITHUB_ENV
+        echo "RECIPIENT_EMAILS=${RECIPIENT_EMAILS}" >> $GITHUB_ENV
+
+    - name: Run the Script
+      run: python script.py
+
+    
+    - name: Commit sent_questions.txt
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add sent_questions.txt
+        git commit -m "Update sent questions"
+        git push origin HEAD:${{ github.ref }}
