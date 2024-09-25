@@ -1,0 +1,699 @@
+Q1: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q2: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q3: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q4: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q5: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q6: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q7: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q8: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q9: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q10: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q11: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q12: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q13: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q14: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q15: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q16: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q17: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q18: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q19: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q20: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q21: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q22: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q23: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q24: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q25: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q26: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q27: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q28: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q29: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q30: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q31: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q32: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q33: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q34: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q35: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q36: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q37: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q38: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q39: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q40: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q41: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q42: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q43: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q44: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q45: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q46: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q47: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q48: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q49: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q50: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q51: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q52: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q53: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q54: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q55: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q56: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q57: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q58: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q59: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q60: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q61: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q62: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q63: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q64: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q65: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q66: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q67: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q68: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q69: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q70: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q71: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q72: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q73: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q74: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q75: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q76: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q77: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q78: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q79: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q80: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q81: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q82: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q83: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q84: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q85: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q86: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q87: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q88: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q89: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q90: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
+
+Q91: If the length of a rectangle is increased by 20% and the width is reduced by 20%, what is the percentage change in the area of the rectangle?
+A) 0%
+B) 4% decrease
+C) 4% increase
+D) 10% decrease
+E) 10% increase
+
+Q92: A train running at a speed of 54 km/h crosses a bridge in 36 seconds. If the length of the train is 180 meters, what is the length of the bridge?
+A) 300 m
+B) 320 m
+C) 360 m
+D) 390 m
+E) 420 m
+
+Q93: If x = 5 and y = -3, what is the value of (x^2 + 2xy + y^2)?
+A) 0
+B) 1
+C) 2
+D) 16
+E) 64
+
+Q94: A bag contains 3 red balls, 4 blue balls, and 5 green balls. If two balls are drawn at random, what is the probability that both balls are blue?
+A) 1/33
+B) 2/11
+C) 1/12
+D) 1/6
+E) 4/11
+
+Q95: The sum of three consecutive integers is 72. What is the largest of the three integers?
+A) 23
+B) 24
+C) 25
+D) 26
+E) 27
+
+Q96: If the price of an article is increased by 25% and then decreased by 20%, what is the net percentage change in the price of the article?
+A) 0%
+B) 1% increase
+C) 2.5% increase
+D) 5% increase
+E) 10% increase
+
+Q97: If 3x - 2y = 12 and 2x + y = 5, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+Q98: The average of five numbers is 24. If one of the numbers is excluded, the average of the remaining numbers is 20. What is the number that was excluded?
+A) 24
+B) 28
+C) 32
+D) 36
+E) 40
+
+Q99: If a car travels at 60 km/h for 3 hours and then at 90 km/h for 2 hours, what is the average speed of the car for the entire journey?
+A) 70 km/h
+B) 72 km/h
+C) 75 km/h
+D) 78 km/h
+E) 80 km/h
+
+Q100: In a group of 50 students, 18 study physics, 22 study chemistry, and 10 study both subjects. How many students study neither physics nor chemistry?
+A) 6
+B) 10
+C) 14
+D) 18
+E) 22
