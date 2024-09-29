@@ -23,3 +23,9 @@
    C) 12% decrease
    D) 15% increase
    E) 18% decrease
+33. A rectangular garden is 40 feet long and 20 feet wide. A path, 2 feet wide, runs around the entire garden. What is the area of the path?
+   A) 164 square feet
+   B) 168 square feet
+   C) 172 square feet
+   D) 176 square feet
+   E) 180 square feet
