@@ -107,3 +107,9 @@
    C) 1
    D) 5
    E) 6
+13. What is the larger of the 2 solutions of the equation x² – 4x = 96?
+   A) 8
+   B) 12
+   C) 16
+   D) 32
+   E) 100
