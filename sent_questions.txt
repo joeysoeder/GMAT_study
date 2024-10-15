@@ -119,3 +119,9 @@
    C) $175
    D) $200
    E) $225
+1. For each trip, a taxicab company charges $4.25 for the first mile and $2.65 for each additional mile or fraction thereof. If the total charge for a certain trip was $62.55, how many miles at most was the trip?
+   A) 21
+   B) 22
+   C) 23
+   D) 24
+   E) 25
