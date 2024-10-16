@@ -125,3 +125,9 @@
    C) 23
    D) 24
    E) 25
+15. A rope 20.6 meters long is cut into two pieces. If the length of one piece of rope is 2.8 meters shorter than the length of the other, what is the length in meters of the longer piece of rope?
+   A) 7.5
+   B) 8.9
+   C) 9.9
+   D) 10.3
+   E) 11.7
