@@ -131,3 +131,9 @@
    C) 9.9
    D) 10.3
    E) 11.7
+63. If a and b are positive integers and a > b, which of the following expressions represents the greatest value?
+   A) a + b
+   B) a²
+   C) b²
+   D) ab
+   E) a – b
