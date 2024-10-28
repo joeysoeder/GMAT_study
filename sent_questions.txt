@@ -197,3 +197,9 @@
    C) 2/5
    D) 1
    E) 3/4
+48. The area of a circle is 16π. What is the circumference of the circle?
+   A) 8π
+   B) 16π
+   C) 4π
+   D) 6π
+   E) 32π
