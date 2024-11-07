@@ -257,3 +257,9 @@
    C) 4
    D) 5
    E) 6
+65. A factory produces 300 widgets per hour. If the factory operates for 8 hours a day, how many widgets does it produce in 5 days?
+   A) 8,000
+   B) 10,000
+   C) 12,000
+   D) 15,000
+   E) 18,000
