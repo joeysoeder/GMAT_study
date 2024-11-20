@@ -335,3 +335,9 @@
    C) 9.9
    D) 10.3
    E) 11.7
+50. The volume of a rectangular prism is 180 cubic units. If the length and width of the prism are 10 units and 6 units respectively, what is the height of the prism?
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   E) 6
