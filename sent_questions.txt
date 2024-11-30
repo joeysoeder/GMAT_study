@@ -395,3 +395,9 @@
    C) 1
    D) 5
    E) 6
+98. A man buys a watch for $240 and sells it at a profit of 25%. What is the selling price of the watch?
+   A) $250
+   B) $260
+   C) $280
+   D) $300
+   E) $320
