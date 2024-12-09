@@ -449,3 +449,9 @@
    C) 60
    D) 72
    E) 96
+57. If a car's fuel efficiency is 25 miles per gallon, how many gallons of fuel are needed to travel 450 miles?
+   A) 10
+   B) 15
+   C) 18
+   D) 20
+   E) 25
