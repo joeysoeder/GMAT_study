@@ -554,3 +554,9 @@
    C) 60 mph
    D) 65 mph
    E) 70 mph
+18. A student’s average (arithmetic mean) test score on 4 tests is 78. What must be the student’s score on a 5th test for the student’s average score on the 5 tests to be 80?
+   A) 80
+   B) 82
+   C) 84
+   D) 86
+   E) 88
