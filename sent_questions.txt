@@ -566,3 +566,9 @@
    C) 2/3
    D) 3/4
    E) 4/5
+56. If the length of a rectangle is increased by 20% and the width is decreased by 10%, what is the percent change in the area of the rectangle?
+   A) 8% decrease
+   B) 10% increase
+   C) 12% decrease
+   D) 15% increase
+   E) 18% decrease
