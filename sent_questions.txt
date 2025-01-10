@@ -644,3 +644,9 @@
    C) 24
    D) 48
    E) 120
+61. If n is an even integer, what is the remainder when n² is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
