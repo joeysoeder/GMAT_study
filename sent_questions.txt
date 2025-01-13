@@ -662,3 +662,9 @@
    C) 25
    D) 26
    E) 27
+59. The sum of three consecutive even integers is 36. What is the smallest of the three integers?
+   A) 8
+   B) 10
+   C) 12
+   D) 14
+   E) 16
