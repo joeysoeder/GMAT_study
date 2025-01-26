@@ -740,3 +740,12 @@
    C) 0.000025 and 0.00025
    D) 0.0000025 and 0.000025
    E) 0.00000025 and 0.0000025
+17. When 24 is divided by the positive integer n, the remainder is 4. Which of the following statements about n must be true?
+   A) n is even.
+   B) n is a multiple of 5.
+   C) n is a factor of 20.
+   A) III only
+   B) I and II only
+   C) I and III only
+   D) II and III only
+   E) I, II, and III
