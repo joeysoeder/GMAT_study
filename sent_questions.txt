@@ -791,3 +791,9 @@
    C) 60 mph
    D) 65 mph
    E) 70 mph
+7. If x = −5/8 and y = −1/2, what is the value of the expression −2x − y^2?
+   A) −3/2
+   B) −1
+   C) 1
+   D) 3/2
+   E) 7/4
