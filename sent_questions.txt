@@ -797,3 +797,9 @@
    C) 1
    D) 3/2
    E) 7/4
+58. A train leaves City A traveling at 60 mph. Two hours later, a second train leaves City A traveling at 80 mph on a parallel track. How long will it take for the second train to catch up to the first train?
+   A) 2 hours
+   B) 3 hours
+   C) 4 hours
+   D) 5 hours
+   E) 6 hours
