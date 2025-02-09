@@ -827,3 +827,9 @@
    C) 1/120
    D) 1/60
    E) 1/10
+25. If x² + y² = z² and x, y, z are all positive integers, which of the following could be the value of z?
+   A) 5
+   B) 6
+   C) 7
+   D) 8
+   E) 9
