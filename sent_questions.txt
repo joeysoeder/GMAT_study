@@ -857,3 +857,9 @@
    C) 84
    D) 86
    E) 88
+47. A box contains 10 identical balls, of which 3 are red and the rest are blue. If 2 balls are selected at random, what is the probability that both balls are red?
+   A) 3/10
+   B) 1/6
+   C) 1/15
+   D) 1/30
+   E) 2/5
