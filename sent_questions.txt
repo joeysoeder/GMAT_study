@@ -899,3 +899,9 @@
    C) 172 square feet
    D) 176 square feet
    E) 180 square feet
+28. If the product of 3 consecutive integers is equal to 120, what is the sum of the integers?
+   A) 12
+   B) 15
+   C) 16
+   D) 18
+   E) 20
