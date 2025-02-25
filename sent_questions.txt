@@ -923,3 +923,9 @@
    C) 4
    D) 5
    E) 6
+2. If r and s are positive integers such that (2^r )(4^s ) = 16, then 2r + s = 
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   E) 6
