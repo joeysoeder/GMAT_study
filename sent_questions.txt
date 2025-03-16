@@ -1040,3 +1040,9 @@
    C) 9.9
    D) 10.3
    E) 11.7
+9. If x > y and y > z, which of the following represents the greatest number?
+   A) x − z
+   B) x − y
+   C) y − x
+   D) z − y
+   E) z − x
