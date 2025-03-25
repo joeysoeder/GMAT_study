@@ -1094,3 +1094,9 @@
    C) 12,000
    D) 15,000
    E) 18,000
+3. On Monday, the opening price of a certain stock was $100 per share and its closing price was $110 per share. On Tuesday, the closing price of the stock was 10 percent less than its closing price on Monday, and on Wednesday, the closing price of the stock was 4 percent greater than its closing price on Tuesday. What was the approximate percent change in the price of the stock from its opening price on Monday to its closing price on Wednesday?
+   A) A decrease of 6%
+   B) A decrease of 4%
+   C) A decrease of 1%
+   D) An increase of 3%
+   E) An increase of 4%
