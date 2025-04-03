@@ -1148,3 +1148,9 @@
    C) 620
    D) 700
    E) 750
+20. Last week, Jack worked 70 hours and earned $1260. If he earned his regular hourly wage for the first 40 hours worked, 1.5 times his regular hourly wage for the next 20 hours worked, and 2 times his regular hourly wage for the remaining 10 hours worked, what was his regular hourly wage?
+   A) $7.00
+   B) $14.00
+   C) $18.00
+   D) $22.00
+   E) $31.50
