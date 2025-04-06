@@ -1166,3 +1166,9 @@
    C) 620
    D) 700
    E) 750
+30. A train travels from City A to City B at an average speed of 80 miles per hour. It returns from City B to City A at an average speed of 60 miles per hour. What is the average speed of the entire trip?
+   A) 65 mph
+   B) 68 mph
+   C) 70 mph
+   D) 72 mph
+   E) 75 mph
