@@ -1250,3 +1250,9 @@
    C) 0.000025 and 0.00025
    D) 0.0000025 and 0.000025
    E) 0.00000025 and 0.0000025
+18. A student’s average (arithmetic mean) test score on 4 tests is 78. What must be the student’s score on a 5th test for the student’s average score on the 5 tests to be 80?
+   A) 80
+   B) 82
+   C) 84
+   D) 86
+   E) 88
