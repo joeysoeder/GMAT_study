@@ -1256,3 +1256,9 @@
    C) 84
    D) 86
    E) 88
+45. If a right triangle has one angle measuring 30 degrees, what is the measure of the other non-right angle?
+   A) 30 degrees
+   B) 45 degrees
+   C) 50 degrees
+   D) 60 degrees
+   E) 90 degrees
