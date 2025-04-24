@@ -1274,3 +1274,9 @@
    C) 50 degrees
    D) 60 degrees
    E) 90 degrees
+60. A right circular cone has a base with a radius of 4 units and a height of 9 units. What is the volume of the cone? (Use π = 3.14)
+   A) 48π
+   B) 36π
+   C) 24π
+   D) 72π
+   E) 96π
