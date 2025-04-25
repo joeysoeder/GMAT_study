@@ -1280,3 +1280,9 @@
    C) 24π
    D) 72π
    E) 96π
+11. A grocer has 400 pounds of coffee in stock, 20 percent of which is decaffeinated. If the grocer buys another 100 pounds of coffee, of which 60 percent is decaffeinated, what percent by weight of the grocer's stock of coffee is decaffeinated?
+   A) 28%
+   B) 30%
+   C) 32%
+   D) 34%
+   E) 40%
