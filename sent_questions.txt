@@ -1286,3 +1286,9 @@
    C) 32%
    D) 34%
    E) 40%
+27. A cylindrical container has a diameter of 12 cm and a height of 10 cm. What is the volume of the container in cubic centimeters? (Use π = 3.14)
+   A) 1130.4
+   B) 905.4
+   C) 754.2
+   D) 452.2
+   E) 282.6
