@@ -1406,3 +1406,9 @@
    C) 84
    D) 86
    E) 88
+22. A work plan for September requires that a work team working every day produce an average of 200 items per day. For the first half of the month, the team produced an average of 150 items per day. How many items per day must the team average during the second half of the month if it is to attain the average daily production rate required by the work plan?
+   A) 225
+   B) 250
+   C) 275
+   D) 300
+   E) 350
