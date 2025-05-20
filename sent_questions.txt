@@ -1430,3 +1430,9 @@
    C) 2/3
    D) 3/4
    E) 4/5
+6. In a certain sequence, each term after the first term is one-half the previous term. If the tenth term of the sequence is between 0.0001 and 0.001, then the twelfth term of the sequence is between
+   A) 0.0025 and 0.025
+   B) 0.00025 and 0.0025
+   C) 0.000025 and 0.00025
+   D) 0.0000025 and 0.000025
+   E) 0.00000025 and 0.0000025
