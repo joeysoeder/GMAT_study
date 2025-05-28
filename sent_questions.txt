@@ -1478,3 +1478,9 @@
    C) 188.4 cubic meters
    D) 212 cubic meters
    E) 235 cubic meters
+23. If p = 2x and q = 3y, which of the following expressions represents the ratio of p to q?
+   A) 2x / 3y
+   B) 3x / 2y
+   C) 3y / 2x
+   D) 6xy
+   E) None of the above
