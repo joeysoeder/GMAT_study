@@ -1796,3 +1796,9 @@
    C) 2/5
    D) 1
    E) 3/4
+64. If a sum of $10,000 is invested at an annual interest rate of 5%, compounded annually, how much will the investment be worth at the end of 2 years?
+   A) $10,250
+   B) $10,500
+   C) $11,025
+   D) $11,500
+   E) $12,000
