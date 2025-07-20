@@ -1802,3 +1802,9 @@
    C) $11,025
    D) $11,500
    E) $12,000
+10. The expression n! is defined as the product of the integers from 1 through n. If p is the product of the integers from 100 through 299 and q is the product of the integers from 200 through 299, which of the following is equal to p/q?
+   A) 99!
+   B) 199!
+   C) 199!/99!
+   D) 299!/99!
+   E) 299!/199!
