@@ -1856,3 +1856,9 @@
    C) 0
    D) 1
    E) 2
+55. The average (arithmetic mean) of 8 numbers is 16. If one number is removed, the average of the remaining 7 numbers is 15. What is the number that was removed?
+   A) 21
+   B) 23
+   C) 25
+   D) 27
+   E) 29
