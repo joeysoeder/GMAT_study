@@ -1880,3 +1880,9 @@
    C) $175
    D) $200
    E) $225
+14. In a certain learning experiment, each participant had three trials and was assigned for each trial a score of either –2, –1, 0, 1, or 2. The participant’s final score consisted of the sum of the first trial score, 2 times the second trial score, and 3 times the third trial score. If Anne received scores of 1 and –1 for her first two trials, which of the following could NOT be her final score?
+   A) –4
+   B) –2
+   C) 1
+   D) 5
+   E) 6
