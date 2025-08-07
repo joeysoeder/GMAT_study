@@ -1910,3 +1910,9 @@
    C) 199!/99!
    D) 299!/99!
    E) 299!/199!
+49. A 15% increase followed by a 10% decrease is equivalent to what overall percent change?
+   A) A 3.5% increase
+   B) A 4.5% increase
+   C) A 3.5% decrease
+   D) A 4.5% decrease
+   E) No change
