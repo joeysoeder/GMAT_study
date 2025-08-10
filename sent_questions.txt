@@ -1928,3 +1928,9 @@
    C) 12% decrease
    D) 15% increase
    E) 18% decrease
+99. The product of two numbers is 48 and their sum is 16. What are the two numbers?
+   A) 4 and 12
+   B) 6 and 10
+   C) 8 and 8
+   D) 9 and 7
+   E) 5 and 11
