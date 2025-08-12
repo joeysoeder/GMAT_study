@@ -1940,3 +1940,9 @@
    C) 620
    D) 700
    E) 750
+43. The sum of the first 10 positive integers is
+   A) 40
+   B) 45
+   C) 50
+   D) 55
+   E) 60
