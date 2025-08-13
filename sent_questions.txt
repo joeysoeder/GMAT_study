@@ -1946,3 +1946,9 @@
    C) 50
    D) 55
    E) 60
+53. A rectangle has a perimeter of 40 and a length of 12. What is the area of the rectangle?
+   A) 36
+   B) 48
+   C) 60
+   D) 72
+   E) 96
