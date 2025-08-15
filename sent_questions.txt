@@ -1958,3 +1958,9 @@
    C) 24π
    D) 72π
    E) 96π
+19. If x + y = 2 and x² + y² = 2, what is the value of xy?
+   A) –2
+   B) –1
+   C) 0
+   D) 1
+   E) 2
