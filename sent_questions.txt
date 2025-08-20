@@ -1988,3 +1988,9 @@
    C) 23
    D) 24
    E) 25
+46. If x + y = 10 and x² + y² = 58, what is the value of xy?
+   A) 10
+   B) 12
+   C) 14
+   D) 16
+   E) 18
