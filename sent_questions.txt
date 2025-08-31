@@ -2054,3 +2054,9 @@
    C) y − x
    D) z − y
    E) z − x
+37. In a certain lottery, 3 numbers are chosen at random from the numbers 1 to 10. What is the probability of choosing the numbers 1, 2, and 3 in that order?
+   A) 1/1000
+   B) 1/720
+   C) 1/120
+   D) 1/60
+   E) 1/10
