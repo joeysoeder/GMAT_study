@@ -2060,3 +2060,9 @@
    C) 1/120
    D) 1/60
    E) 1/10
+12. If the average (arithmetic mean) of 5 numbers j, j + 5, 2j – 1, 4j – 2, and 5j – 1 is 8, what is the value of j?
+   A) 1/3
+   B) 7/13
+   C) 1
+   D) 3
+   E) 8
