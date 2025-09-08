@@ -2102,3 +2102,9 @@
    C) $11,025
    D) $11,500
    E) $12,000
+16. The toll T in dollars for a truck using a certain bridge is given by the formula T = 1.50 + 0.50(x – 2), where x is the number of axles on the truck. What is the toll for an 18-wheel truck that has 2 wheels on its front axle and 4 wheels on each of its other axles?
+   A) $2.50
+   B) $3.00
+   C) $3.50
+   D) $4.00
+   E) $5.00
