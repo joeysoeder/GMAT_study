@@ -2150,3 +2150,9 @@
    C) 25
    D) 26
    E) 27
+5. 2x + 2y = −4, 4x + y = 1. In the system of equations above, what is the value of x?
+   A) −3
+   B) −1
+   C) 2/5
+   D) 1
+   E) 3/4
