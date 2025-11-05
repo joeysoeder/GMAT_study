@@ -2450,3 +2450,9 @@
    C) 75
    D) 100
    E) 125
+34. If n is a positive integer and 5n + 3 is divisible by 4, what is the remainder when n is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
