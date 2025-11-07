@@ -2462,3 +2462,9 @@
    C) $175
    D) $200
    E) $225
+7. If x = −5/8 and y = −1/2, what is the value of the expression −2x − y^2?
+   A) −3/2
+   B) −1
+   C) 1
+   D) 3/2
+   E) 7/4
