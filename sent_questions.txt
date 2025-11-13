@@ -2498,3 +2498,9 @@
    C) 754.2
    D) 452.2
    E) 282.6
+23. If p = 2x and q = 3y, which of the following expressions represents the ratio of p to q?
+   A) 2x / 3y
+   B) 3x / 2y
+   C) 3y / 2x
+   D) 6xy
+   E) None of the above
