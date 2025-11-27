@@ -2585,3 +2585,9 @@
    C) 49
    D) 36
    E) 25
+31. If x² − 9x + 20 = 0, what are the possible values of x?
+   A) 3, 6
+   B) −5, 4
+   C) −3, 5
+   D) 2, 7
+   E) 4, 5
