@@ -2609,3 +2609,9 @@
    C) 0.000025 and 0.00025
    D) 0.0000025 and 0.000025
    E) 0.00000025 and 0.0000025
+32. If a coin is flipped twice, what is the probability that it will land on heads at least once?
+   A) 1/4
+   B) 1/2
+   C) 3/4
+   D) 1/8
+   E) 5/8
