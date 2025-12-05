@@ -2633,3 +2633,9 @@
    C) 2/5
    D) 1
    E) 3/4
+24. In a certain sequence, each term after the first is the previous term divided by 2. If the first term of the sequence is 64, what is the 7th term?
+   A) 1
+   B) 0.5
+   C) 0.25
+   D) 0.125
+   E) 0.0625
