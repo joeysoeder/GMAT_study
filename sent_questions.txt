@@ -2783,3 +2783,9 @@
    C) $3.50
    D) $4.00
    E) $5.00
+29. The average age of three students is 22 years. If the oldest student is 2 years older than the second-oldest student, and the second-oldest student is 3 years older than the youngest student, what is the age of the oldest student?
+   A) 23
+   B) 24
+   C) 25
+   D) 26
+   E) 27
