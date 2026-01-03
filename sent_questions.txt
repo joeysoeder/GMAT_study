@@ -2807,3 +2807,9 @@
    C) 2/3
    D) 3/4
    E) 4/5
+21. The "prime sum" of an integer n greater than 1 is the sum of all the prime factors of n, including repetitions. For example, the prime sum of 12 is 7, since 12 = 2 × 2 × 3 and 2 + 2 + 3 = 7. For which of the following integers is the prime sum greater than 35?
+   A) 440
+   B) 512
+   C) 620
+   D) 700
+   E) 750
