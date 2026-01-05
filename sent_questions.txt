@@ -2819,3 +2819,9 @@
    C) −3, 5
    D) 2, 7
    E) 4, 5
+43. The sum of the first 10 positive integers is
+   A) 40
+   B) 45
+   C) 50
+   D) 55
+   E) 60
