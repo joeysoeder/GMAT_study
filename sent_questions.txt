@@ -2837,3 +2837,9 @@
    C) 0.000025 and 0.00025
    D) 0.0000025 and 0.000025
    E) 0.00000025 and 0.0000025
+99. The product of two numbers is 48 and their sum is 16. What are the two numbers?
+   A) 4 and 12
+   B) 6 and 10
+   C) 8 and 8
+   D) 9 and 7
+   E) 5 and 11
