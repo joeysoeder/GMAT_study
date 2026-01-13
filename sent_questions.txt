@@ -2867,3 +2867,9 @@
    C) 188.4 cubic meters
    D) 212 cubic meters
    E) 235 cubic meters
+28. If the product of 3 consecutive integers is equal to 120, what is the sum of the integers?
+   A) 12
+   B) 15
+   C) 16
+   D) 18
+   E) 20
