@@ -2999,3 +2999,9 @@
    C) A decrease of 1%
    D) An increase of 3%
    E) An increase of 4%
+4. If the sum of the reciprocals of two consecutive odd integers is 12/35, then the greater of the two integers is
+   A) 3
+   B) 5
+   C) 7
+   D) 9
+   E) 11
