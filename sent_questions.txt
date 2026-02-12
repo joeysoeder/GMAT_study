@@ -3047,3 +3047,9 @@
    C) $280
    D) $300
    E) $320
+40. A jar contains 5 red marbles, 4 green marbles, and 3 blue marbles. If one marble is chosen at random, what is the probability that it is either red or blue?
+   A) 1/4
+   B) 1/2
+   C) 2/3
+   D) 3/4
+   E) 4/5
