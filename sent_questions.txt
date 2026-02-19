@@ -3089,3 +3089,9 @@
    C) 12,000
    D) 15,000
    E) 18,000
+38. If x + 2y = 8 and 3x − y = 7, what is the value of x?
+   A) 1
+   B) 2
+   C) 3
+   D) 4
+   E) 5
