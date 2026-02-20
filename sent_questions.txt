@@ -3095,3 +3095,9 @@
    C) 3
    D) 4
    E) 5
+9. If x > y and y > z, which of the following represents the greatest number?
+   A) x − z
+   B) x − y
+   C) y − x
+   D) z − y
+   E) z − x
