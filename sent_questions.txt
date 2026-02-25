@@ -3125,3 +3125,9 @@
    C) 1/15
    D) 1/30
    E) 2/5
+61. If n is an even integer, what is the remainder when n² is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
