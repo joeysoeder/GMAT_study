@@ -3185,3 +3185,9 @@
    C) 9.9
    D) 10.3
    E) 11.7
+59. The sum of three consecutive even integers is 36. What is the smallest of the three integers?
+   A) 8
+   B) 10
+   C) 12
+   D) 14
+   E) 16
