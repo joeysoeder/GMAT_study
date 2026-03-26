@@ -3299,3 +3299,9 @@
    C) 60 mph
    D) 65 mph
    E) 70 mph
+61. If n is an even integer, what is the remainder when n² is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
