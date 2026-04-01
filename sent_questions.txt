@@ -3335,3 +3335,9 @@
    C) 3/4
    D) 1/8
    E) 5/8
+35. A triangle has sides of lengths 7, 24, and 25. What is the area of the triangle?
+   A) 60
+   B) 70
+   C) 80
+   D) 84
+   E) 90
