@@ -3437,3 +3437,9 @@
    C) 3/4
    D) 1/8
    E) 5/8
+51. A sum of money is to be divided among A, B, and C in the ratio 2:3:4. If B receives $150, how much money is A's share?
+   A) $100
+   B) $125
+   C) $175
+   D) $200
+   E) $225
