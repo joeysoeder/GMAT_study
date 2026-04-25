@@ -3479,3 +3479,9 @@
    C) $18.00
    D) $22.00
    E) $31.50
+25. If x² + y² = z² and x, y, z are all positive integers, which of the following could be the value of z?
+   A) 5
+   B) 6
+   C) 7
+   D) 8
+   E) 9
