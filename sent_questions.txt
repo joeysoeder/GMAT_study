@@ -3722,3 +3722,9 @@
    C) I and III only
    D) II and III only
    E) I, II, and III
+42. The perimeter of a square is 36. What is the area of the square?
+   A) 81
+   B) 64
+   C) 49
+   D) 36
+   E) 25
