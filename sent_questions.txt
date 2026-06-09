@@ -3746,3 +3746,9 @@
    C) 1/15
    D) 1/30
    E) 2/5
+39. If the product of two numbers is 56 and their sum is 15, what are the two numbers?
+   A) 7 and 8
+   B) 3 and 12
+   C) 4 and 11
+   D) 5 and 10
+   E) 6 and 9
