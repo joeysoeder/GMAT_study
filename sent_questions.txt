@@ -3836,3 +3836,9 @@
    C) 275
    D) 300
    E) 350
+54. A cube has a surface area of 150 square units. What is the volume of the cube?
+   A) 25
+   B) 50
+   C) 75
+   D) 100
+   E) 125
