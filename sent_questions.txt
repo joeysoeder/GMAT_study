@@ -3854,3 +3854,9 @@
    C) 0.25
    D) 0.125
    E) 0.0625
+62. If 5x – 3 = 2x + 6, what is the value of x?
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   E) 6
