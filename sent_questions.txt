@@ -3950,3 +3950,9 @@
    C) 4π
    D) 6π
    E) 32π
+44. A certain recipe requires 3 cups of sugar for every 4 cups of flour. If a baker has 15 cups of sugar, how many cups of flour does the baker need?
+   A) 15
+   B) 18
+   C) 20
+   D) 22
+   E) 25
