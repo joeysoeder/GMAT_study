@@ -4100,3 +4100,9 @@
    C) 32%
    D) 34%
    E) 40%
+43. The sum of the first 10 positive integers is
+   A) 40
+   B) 45
+   C) 50
+   D) 55
+   E) 60
