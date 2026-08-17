@@ -4154,3 +4154,9 @@
    C) 4
    D) 5
    E) 6
+41. In how many ways can the letters in the word "GMAT" be arranged?
+   A) 4
+   B) 12
+   C) 24
+   D) 48
+   E) 120
