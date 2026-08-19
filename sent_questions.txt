@@ -4166,3 +4166,9 @@
    C) 24π
    D) 72π
    E) 96π
+26. If the difference between the squares of two consecutive integers is 35, what is the larger of the two integers?
+   A) 8
+   B) 9
+   C) 10
+   D) 11
+   E) 12
