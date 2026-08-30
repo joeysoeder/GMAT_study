@@ -4232,3 +4232,9 @@
    C) 90.90
    D) 91.20
    E) 91.85
+35. A triangle has sides of lengths 7, 24, and 25. What is the area of the triangle?
+   A) 60
+   B) 70
+   C) 80
+   D) 84
+   E) 90
