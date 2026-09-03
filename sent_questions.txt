@@ -4256,3 +4256,9 @@
    C) 0.000025 and 0.00025
    D) 0.0000025 and 0.000025
    E) 0.00000025 and 0.0000025
+60. A right circular cone has a base with a radius of 4 units and a height of 9 units. What is the volume of the cone? (Use π = 3.14)
+   A) 48π
+   B) 36π
+   C) 24π
+   D) 72π
+   E) 96π
