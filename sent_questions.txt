@@ -4346,3 +4346,9 @@
    C) 3
    D) 4
    E) 5
+63. If a and b are positive integers and a > b, which of the following expressions represents the greatest value?
+   A) a + b
+   B) a²
+   C) b²
+   D) ab
+   E) a – b
