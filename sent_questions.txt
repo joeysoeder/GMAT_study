@@ -4382,3 +4382,9 @@
    C) 84
    D) 86
    E) 88
+32. If a coin is flipped twice, what is the probability that it will land on heads at least once?
+   A) 1/4
+   B) 1/2
+   C) 3/4
+   D) 1/8
+   E) 5/8
