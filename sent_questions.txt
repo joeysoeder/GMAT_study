@@ -4442,3 +4442,9 @@
    C) 70 mph
    D) 72 mph
    E) 75 mph
+100. A cylindrical water tank has a radius of 3 meters and a height of 5 meters. What is the volume of the tank? (Use π = 3.14)
+   A) 141.3 cubic meters
+   B) 157 cubic meters
+   C) 188.4 cubic meters
+   D) 212 cubic meters
+   E) 235 cubic meters
