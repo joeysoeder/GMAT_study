@@ -4628,3 +4628,9 @@
    C) 172 square feet
    D) 176 square feet
    E) 180 square feet
+52. A car travels 120 miles in 2 hours, then 180 miles in 3 hours. What is the car's average speed in miles per hour for the entire trip?
+   A) 50 mph
+   B) 55 mph
+   C) 60 mph
+   D) 65 mph
+   E) 70 mph
