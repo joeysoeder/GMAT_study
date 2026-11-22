@@ -4736,3 +4736,9 @@
    C) 1
    D) 3/2
    E) 7/4
+46. If x + y = 10 and x² + y² = 58, what is the value of xy?
+   A) 10
+   B) 12
+   C) 14
+   D) 16
+   E) 18
