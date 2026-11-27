@@ -4769,3 +4769,9 @@
    C) I and III only
    D) II and III only
    E) I, II, and III
+34. If n is a positive integer and 5n + 3 is divisible by 4, what is the remainder when n is divided by 4?
+   A) 0
+   B) 1
+   C) 2
+   D) 3
+   E) 4
